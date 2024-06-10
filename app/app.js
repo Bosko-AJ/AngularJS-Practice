@@ -2,8 +2,7 @@ var myNinjaApp = angular.module("myNinjaApp", [
   "ngRoute",
   "ui.router",
   "ngAnimate",
-]);
-//THIS IS GIT PUSH PULL TEST!
+])
 //before app runs
 myNinjaApp.config([
   "$routeProvider",
