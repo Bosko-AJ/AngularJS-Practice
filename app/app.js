@@ -2,8 +2,7 @@ var myNinjaApp = angular.module("myNinjaApp", [
   "ngRoute",
   "ui.router",
   "ngAnimate",
-]);
-
+])
 //before app runs
 myNinjaApp.config([
   "$routeProvider",
